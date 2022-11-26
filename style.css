@@ -1,0 +1,89 @@
+* {
+
+margin: 0;
+padding: 0;
+}
+
+
+nav {
+background-color: rgb(255, 81, 0);
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.adv{
+    background-color: rgb(255, 81, 0);
+    
+} 
+.adv a {
+color: aliceblue;
+}  
+.welcome { 
+    background-color: rgb(255, 81, 0);
+}
+.welcome h2 { 
+    color: aliceblue;
+}
+.wrapper-downloads {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9oJ2lHPVXjfNmPOvvUYUX-9sDIPqMK6JqQ&usqp=CAU) ;
+
+}
+.admins {
+
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9oJ2lHPVXjfNmPOvvUYUX-9sDIPqMK6JqQ&usqp=CAU) ;
+
+
+}
+.dowload-games {
+    background-color: rgb(255, 81, 0);
+
+}
+.dowload-games h3 {
+    color: aliceblue;
+}
+.admins p {
+color: aliceblue;
+font-size: medium;
+}
+.admins h6 {
+    color: aliceblue;
+    fo
+    display: flex;
+    justify-content: center;
+}
+.admins {
+    display: flex;
+justify-content: center;
+font-size: ;
+
+
+}
+.top-games {
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi9oJ2lHPVXjfNmPOvvUYUX-9sDIPqMK6JqQ&usqp=CAU) ;
+
+}
+.top-games p {
+    display: flex;
+    justify-content: center;
+font-size: xx-large;
+
+
+}
+.top-games h6 {
+    font-size: xx-large;
+    display: flex;
+    justify-content: center;
+}
+.top1 {
+    display: flex;
+    justify-content: center;
+}
+.top2 {
+    display: flex;
+    justify-content: center;
+}
+.top3 {
+display: flex;
+justify-content: center;
+
+}
